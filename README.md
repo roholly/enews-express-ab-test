@@ -17,7 +17,7 @@ E-news Express, an online news portal, was losing ground on new subscriber acqui
 
 **1. Do users spend more time on the new page?**
 
-Visually, yes. The median time on the new page was nearly two minutes higher. But a two-sample t-test told a different story. The p-value came back at 0.9999, nowhere near the 5% significance threshold. There is no statistical evidence that users spend more time on the new page.
+Visually, yes. The median time on the new page was nearly two minutes higher. A two-sample t-test confirmed it. With the treatment group correctly specified first and the alternative set to 'greater', the p-value came back at 0.0001, well below the 5% threshold. Users spend significantly more time on the new page.
 
 **2. Does the new page convert more users?**
 
@@ -35,7 +35,7 @@ English users averaged 6.7 minutes, French 6.2, Spanish 5.8. One-way ANOVA, afte
 
 ## The Interesting Part
 
-The new page converts 57% more users than the old one, but there is no evidence users spend more time on it. That combination is worth paying attention to. It suggests the new design may be more efficient at driving a decision rather than simply more engaging. Users are converting without necessarily lingering longer, which is a meaningfully different outcome than the original hypothesis assumed.
+The new page wins on both dimensions that matter: users spend significantly more time on it and convert at a significantly higher rate. What's worth noting is that the visual analysis suggested both findings before the tests confirmed them. The median time difference was nearly two minutes and the conversion gap was 24 percentage points. The statistics did what they're supposed to do — confirm what the data was already showing.
 
 ---
 
